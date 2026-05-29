@@ -7,6 +7,7 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/Dotnet.gitignore
 
+.vs
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
@@ -35,9 +36,6 @@ ScaffoldingReadMe.txt
 *.nupkg
 # NuGet Symbol Packages
 *.snupkg
-
-# dotenv environment variables file
-.env
 
 # Others
 ~$*

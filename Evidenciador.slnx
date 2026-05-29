@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Evidenciador.Cli/Evidenciador.Cli.csproj" />
+  <Project Path="Evidenciador.Core/Evidenciador.Core.csproj" />
+  <Project Path="Evidenciador.Infra.Docx/Evidenciador.Infra.Docx.csproj" />
+  <Project Path="Evidenciador.Infra.Playwright/Evidenciador.Infra.Playwright.csproj" />
+  <Project Path="Evidenciador.UI/Evidenciador.UI.csproj" />
+</Solution>
